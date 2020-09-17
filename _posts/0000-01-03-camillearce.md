@@ -3,14 +3,11 @@ layout: slide
 title: "Discussion 4"
 ---
 What are non-typical applications of web-analytics?
--answer
+- answer
 
 What are KBR and KPI? Who defines them? How are they relevant?
--answer
+- answer
 
 What are calculated metrics? What platform enables users to create them? How is that relevant?
--answer
-
-What type of reports there are in web analytics? When do we use them and why?
--answer
+- answer
 
