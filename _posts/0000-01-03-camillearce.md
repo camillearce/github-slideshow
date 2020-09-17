@@ -10,4 +10,3 @@ What are KBR and KPI? Who defines them? How are they relevant?
 
 What are calculated metrics? What platform enables users to create them? How is that relevant?
 - answer
-
